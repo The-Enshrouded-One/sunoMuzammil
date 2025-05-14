@@ -17,6 +17,15 @@
 .invert{
    filter: invert(1);
 }
-.bg-gray-{
-    background-color: #121212;
+.bg-grey{
+    background-color: #252525;
+}
+.rounded{
+    border-radius: 8px;
+}
+.m-1{
+    margin: 13px;
+}
+.p-1{
+    padding: 10px;
 }
