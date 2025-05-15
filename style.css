@@ -28,6 +28,7 @@
      width: 75vw;
      margin: 23px 0;
      margin-right: 20px;
+     position: relative;
     
 }
 
@@ -139,4 +140,20 @@
     font-size: 17px;
       padding: 8px 24px;
  
+}
+.playbar{
+    position: absolute;
+    bottom: 0;
+ background-color: #00FF66; /* Neon green */
+
+
+    width: 93%;
+    padding: 7px 12px;
+    margin: 10px 10px;
+    border-radius: 8px;
+}
+.songbuttons{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
 }
